@@ -1,0 +1,14 @@
+<resources>
+
+
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">5dp</dimen>
+    <dimen name="img_height">200dp</dimen>
+    <dimen name="title_padding">14dp</dimen>
+    <dimen name="title">18sp</dimen>
+    <dimen name="card_elevation">10dp</dimen>
+    <dimen name="margin_layout">30dp</dimen>
+    <dimen name="text_splash">30sp</dimen>
+
+
+</resources>
